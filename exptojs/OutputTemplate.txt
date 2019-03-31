@@ -1,0 +1,9 @@
+var expression = function(variables) {
+	return $expression;
+}
+
+var variables = {
+	$variables
+}
+
+console.log(expression(input));
